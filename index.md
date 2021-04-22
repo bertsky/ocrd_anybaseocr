@@ -1,6 +1,8 @@
 ## sample gallery
 
-This illustrates [PR84](https://github.com/OCR-D/ocrd_anybaseocr/pull/84), which completely reworked the cropper.
+This illustrates [PR84](https://github.com/OCR-D/ocrd_anybaseocr/pull/84), which completely reworked the cropper. 
+
+(If not all images show up, you may need to reload your browser.)
 
 | **original** | **before (only binarized)** | **afterwards** |
 | ![image](/pix/dfki_orig_0.png) (ruler placed next to page) | ![image](/pix/dfki_before_0.png) | ![image](/pix/dfki_after_0.png) | 
